@@ -24,3 +24,4 @@ alt='Tetris Gameplay' width='200' heigth='200'>
 
 Contributions are welcome! If you find any bugs or have ideas for improvements, please submit an issue or a pull request.
 
+Of course! You can try the game here: https://tetris-rosy.vercel.app
